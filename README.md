@@ -6,9 +6,6 @@ Multilingual medical report explainer powered by fine-tuned MedGemma.
 
 Takes any medical report and explains it in simple language in 5 languages — Hindi, Spanish, Arabic, French, and Bengali.
 
-## Demo
-
-[Add your YouTube link here]
 
 ## Model
 
